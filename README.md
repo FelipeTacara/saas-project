@@ -44,9 +44,9 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-Git
-Node.js
-npm (Node Package Manager)
+- Git
+- Node.js
+- npm (Node Package Manager)
 #### Cloning the Repository
 ```bash
 git clone https://github.com/FelipeTacara/saas-project
